@@ -1,0 +1,8 @@
+1. Make the script executable:
+chmod +x disk_monitor.py
+
+2. Edit the cron job file:
+crontab -e
+
+3. Add this line to run the script every 10 minutes:
+*/10 * * * * /usr/bin/python3 /path/to/disk_monitor.py
