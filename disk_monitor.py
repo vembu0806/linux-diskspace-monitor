@@ -11,7 +11,7 @@ EMAIL_RECEIVER = "vembu321@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SMTP_USERNAME = "vembu123@gmail.com"
-SMTP_PASSWORD = "January@2023"
+SMTP_PASSWORD = "January@2024"
 
 def get_disk_usage():
     """Returns a list of partitions exceeding the threshold."""
