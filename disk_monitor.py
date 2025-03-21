@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 # Configuration
 THRESHOLD = 80  # Disk usage percentage threshold
 EMAIL_SENDER = "vembu123@gmail.com"
-EMAIL_RECEIVER = "vembu321@gmail.com"
+EMAIL_RECEIVER = "vembu3211@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SMTP_USERNAME = "vembu123@gmail.com"
